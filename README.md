@@ -1,6 +1,6 @@
 # Ritesh2469
 ![logo](https://github.com/Ritesh2469/Ritesh2369/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ritesh Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Tushar Karn</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
